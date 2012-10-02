@@ -19,3 +19,4 @@ gen-external-apklibs
 out
 .DS_Store
 /libs/*.jar
+/local.properties
